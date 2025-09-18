@@ -20,4 +20,4 @@ To run the game, users need to set up the database using **XAMPP**:
 1. Download and install **XAMPP** ([https://www.apachefriends.org](https://www.apachefriends.org))  
 2. Open the **XAMPP Control Panel** and start **Apache** and **MySQL** servers  
 3. Access the database interface at [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/)  
-4. Run the game script: `python main.py` 
+4. Run: `python main.py` 
